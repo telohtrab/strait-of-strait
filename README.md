@@ -12,7 +12,9 @@ A 3D data-driven terrain piece: an imaginary strait whose coastline is shaped by
 
 The data draws its own strait, one that squeezed a real trade route, oil and gas included, down to almost nothing. Vessel counts are raised above the raw AIS numbers, using Lloyd's List Intelligence findings on tankers running dark, transponders off, to dodge detection. Full methodology and limitations: [`data/SOURCES.md`](data/SOURCES.md).
 
-![Detail: containers and vessel wakes](assets/strait-preview-3.png)
+| | | |
+|---|---|---|
+| <img src="assets/strait-preview-3.png" width="280"> | <img src="assets/strait-preview-4.png" width="280"> | <img src="assets/strait-preview-5.png" width="280"> |
 
 ## Pipeline
 
