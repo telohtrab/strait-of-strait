@@ -6,7 +6,7 @@ A 3D data-driven terrain piece: an imaginary strait whose coastline is shaped by
 
 ![The Strait of the Strait of Hormuz — poster](assets/strait-of-strait_1.png)
 
-📄 [Full-resolution poster (PDF)](https://drive.google.com/file/d/18YxYB5r9AkpdW3qxX9Pq2zp--ofcToEp/view?usp=sharing)
+📄 [Full-resolution poster (PDF)](https://drive.google.com/file/d/18YxYB5r9AkpdW3qxX9Pq2zp--ofcToEp/view?usp=sharing) · 🎬 [Teaser video (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:7488234468177129472/)
 
 ## About
 
@@ -28,3 +28,5 @@ The data draws its own strait, one that squeezed a real trade route, oil and gas
 Analysis & Design: **Benjamin Bartholet** — [trab.studio](https://trab.studio) · [github.com/telohtrab](https://github.com/telohtrab)
 
 Data: UKMTO · hormuz.data-tracking.net · WTO/AXSMarine Trade Tracker · UNCTAD · Lloyd's List Intelligence
+
+3D model: ["Low Poly Cargo Ship"](https://sketchfab.com/3d-models/low-poly-cargo-ship-4c22cbaf01c1427f8ab60b3a07b1b32c) by [Javier_Fernandez](https://sketchfab.com/Javier.Fernandez), licensed under [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
